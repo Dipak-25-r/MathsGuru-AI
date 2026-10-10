@@ -1,0 +1,6 @@
+{
+  "name": "MathsGuru AI - Class 12 Maths Solver",
+  "description": "Step-by-step Class 12 NCERT & GSEB Mathematics reference assistant with multimodal problem scanning, handwritten recognition, Gujarati/English/Gujlish support, board exam tips, and GUJCET/JEE shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
